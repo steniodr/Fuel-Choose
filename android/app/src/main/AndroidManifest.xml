@@ -2,7 +2,7 @@
     package="com.example.first_app">
    <application
         android:label="Smart Refuel"
-        android:icon="@mipmap/gas-station">
+        android:icon="@mipmap/gas_station">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
