@@ -1,4 +1,4 @@
-# Fuel Choose
+# Smart Refuel
 
 ## _App desenvolvido em Flutter, com o intuito de auxiliar no momento em que for abastecer_
 
@@ -17,3 +17,8 @@ Leia mais em [Noticias Automotivas (Álcool x Gasolina)](https://www.noticiasaut
 
 ## Running
 <img src="https://github.com/steniodr/Fuel-Choose/blob/main/img/fuel-choose-demo.jpg" alt="App-Demo" width=35% >
+
+## Try Yourself
+
+Adicionado APK do app!
+Confira em [SmartRefuel](https://github.com/steniodr/Smart-Refuel/blob/main/smartRefuel.apk).
